@@ -1,6 +1,5 @@
-# for eclipse
-Debug
-bin
-.settings
-.cproject
-.project
+Makefile
+tags
+test
+*.o
+*.swp

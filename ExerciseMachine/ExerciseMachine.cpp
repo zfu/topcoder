@@ -20,32 +20,25 @@
 
 using namespace std;
 
-
 class ExerciseMachine {
 public:
     int getPercentages(string time) {
-	    int seconds = toSeconds(time, ":");
+        int seconds = toSeconds(time, ":");
         return gcd(seconds, 100) - 1;
     }
-    
-    vector<string> tokenize(string s, string ch) {
-        vector<string> res;
-        for(int p = 0, p2; p < (int)s.size(); p = p2+1) {
-            p2 = s.find_first_of(ch, p); 
-            if( p2 == -1 ) p2 = s.size();
-            if( p2-p > 0 ) res.push_back(s.substr(p, p2-p));
+
+    int toSeconds(string str, string ch) {
+        int res = 0;
+        for(int p1 = 0, p2; p1 < (int)str.size(); p1 = p2+1) {
+            p2 = str.find_first_of(ch, p1); 
+            if( p2 == -1 ) p2 = str.size();
+            if( p2-p1 > 0 ) {
+                res = res*60 + atoi(str.substr(p1, p2-p1).c_str());
+            }
         }   
         return res;
     }   
 
-    int toSeconds(string s, string ch) {
-        int res = 0;
-        vector<string> p = tokenize(s, ch);
-        for(int i = 0; i < (int)p.size(); i++)
-            res = res*60 + atoi(p[i].c_str());
-        return res;
-    }   
-    
     int gcd(int a, int b) {
         if (b == 0) return a;
         return gcd(b, a%b);

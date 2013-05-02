@@ -1,40 +1,33 @@
-Time: SRM 144 Div.2-1
-BinaryCode: SRM 144 Div.1-1 Div.2-2
-Lottery: SRM 144 Div.1-2
-PowerOutage: SRM 144 Div.2-3
-
-Bonuses: SRM 145 Div.1-1
-ExerciseMachine: SRM 145 Div.2-2
-VendingMachine: SRM 145 Div.1-2 Div.2-3
-ImageDithering: SRM 145 Div.2-1, SRM 208 Div.2-1
-
-RectangularGrid: SRM 146 Div.1-1 Div.2-2
-YahtzeeScore: SRM 146 Div.2-1, SRM 212 Div.2-1
-
-CCipher: SRM 147 Div.2-1
-PeopleCircle: SRM 147 Div.1-1 Div.2-2
-
-CeyKaps: SRM 148 Div.2-2
-DivisorDigits: SRM 148 Div.2-1, SRM 215 Div.2-1
-
-FormatAmt: SRM 149 Div.2-1
-BigBurger: SRM 149 Div.2-2 Div.1-1
-
-WidgetRepairs: SRM 150 Div.2-1
-
-RabbitVoting: SRM 475 Div.2-1
-
-ContestWinner: SRM 546 Div.2-1
-TwoRectangles: SRM 546 Div.2-2
-
-CityMap: SRM 574 Div.2-1
-TheNumberGameDiv2: SRM 574 Div.2-2
-
-TheExperimentDiv2: SRM 576 Div.2-1
-
-HowEasy: TCI '01 Round 1 Div.1-1
-SquareDigits: TCI '01 Round 1 Div.1-2
-Prerequisites: TCI '01 Round 1 Div.1-3
-
-MatchMaker: TCI '01 Semifinals 1 Div.1-1, TCI '01 Semifinals 2 Div.1-1
-
+BigBurger
+BinaryCode
+BirthdayOdds
+Bonuses
+CCipher
+CeyKaps
+CityMap
+Collision
+ContestWinner
+DivisorDigits
+EllysNewNickname
+EllysRoomAssignmentsDiv2
+ExerciseMachine
+FormatAmt
+HowEasy
+ImageDithering
+Lottery
+MatchMaker
+PeopleCircle
+PipeCuts
+PowerOutage
+Prerequisites
+QuizShow
+RabbitVoting
+RectangularGrid
+SquareDigits
+TheExperimentDiv2
+TheNumberGameDiv2
+Time
+TwoRectangles
+VendingMachine
+WidgetRepairs
+YahtzeeScore

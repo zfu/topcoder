@@ -3,6 +3,7 @@ BigBurger
 BinaryCode
 BirthdayOdds
 Bonuses
+Boxing
 BridgeCrossing
 BusinessTasks
 Cafeteria
@@ -24,6 +25,7 @@ GeneralChess
 GeneticCrossover
 Graduation
 GrafixMask
+GroceryBagger
 HowEasy
 IslandFerries
 KiloManX
@@ -42,6 +44,7 @@ PassingGrade
 PathFinding
 PeopleCircle
 PipeCuts
+PlayGame
 PlayingCubes
 Poetry
 PowerOutage
@@ -55,10 +58,12 @@ README
 RectangularGrid
 RecurrenceRelation
 RoboCourier
+RockStar
 RookAttack
 SmartWordToy
 SquareDigits
 TallPeople
+TCSocks
 TeamBuilder
 TeamPhoto
 TheNumberGameDiv2
@@ -73,4 +78,5 @@ WeirdRooks
 WidgetRepairs
 WordFind
 WordForm
+YahtzeeScore
 ZigZag

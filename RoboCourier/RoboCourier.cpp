@@ -17,6 +17,7 @@
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
+#include <climits>
 
 using namespace std;
 
